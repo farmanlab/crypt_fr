@@ -16,7 +16,7 @@
           {
             "rate": 0.018,
             "variance": 0.0015,
-            "durationDays" 3:
+            "durationDays": 3
           }
         ]
       }
