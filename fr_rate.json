@@ -18,6 +18,60 @@
 					"durationDays": 3
 				}
 			]
+		},
+		{
+			"traderType": "BYBIT",
+			"quote": "ETH",
+			"base": "USDT",
+			"rates": [
+				{
+					"rate": 0.0018,
+					"date": "2021-11-30T09:00:00.000000Z"
+				}
+			],
+			"latestPeriodAverages": [
+				{
+					"rate": 0.018,
+					"variance": 0.0015,
+					"durationDays": 3
+				}
+			]
+		},
+		{
+			"traderType": "BYBIT",
+			"quote": "BTC",
+			"base": "USD",
+			"rates": [
+				{
+					"rate": 0.0018,
+					"date": "2021-11-30T09:00:00.000000Z"
+				}
+			],
+			"latestPeriodAverages": [
+				{
+					"rate": 0.018,
+					"variance": 0.0015,
+					"durationDays": 3
+				}
+			]
+		},
+		{
+			"traderType": "FTX",
+			"quote": "BTC",
+			"base": "USDT",
+			"rates": [
+				{
+					"rate": 0.0018,
+					"date": "2021-11-30T09:00:00.000000Z"
+				}
+			],
+			"latestPeriodAverages": [
+				{
+					"rate": 0.018,
+					"variance": 0.0015,
+					"durationDays": 3
+				}
+			]
 		}
 	]
 }
